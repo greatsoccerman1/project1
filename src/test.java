@@ -4,6 +4,6 @@ public class test {
 
     public static void main(String[] args)
     {
-        System.out.println("Curtis is AMAZING");
+        System.out.println("QA Engineer");
     }
 }
